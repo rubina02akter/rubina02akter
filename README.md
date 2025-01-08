@@ -42,8 +42,8 @@ Hello! I'm a passionate **Front-End Developer** with a flair for creating beauti
 
 ### 🔗 Connect With Me
 
-- 🌐 **Portfolio:**https://rubina-porfolio-with-react.netlify.app/ 
-- 📫 **Email:** 
+- 🌐 **Portfolio** : https://rubina-porfolio-with-react.netlify.app/ 
+- 📫 **Email** : rubinaakter0108@gmail.com
 - 💼 **LinkedIn:** https://www.linkedin.com/in/rubina-akter-931796338/ 
 - 🐦 **Twitter:** https://x.com/rubinaakter4321 
 
