@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img height="150" src="https://i.ibb.co/KjCdjBjS/bg.png" class="w-full h-96" />
+</div>
 
 <h1 align="center">Hey There, I'm Rubina Akter 🌟</h1>
 <h2 align="center">Front-End Developer | Aspiring Full-Stack Enthusiast</h2>
@@ -27,11 +29,9 @@ Hello! I'm a passionate **Front-End Developer** with a flair for creating beauti
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
   <img width="12" />
@@ -42,10 +42,20 @@ Hello! I'm a passionate **Front-End Developer** with a flair for creating beauti
 
 ### 🔗 Connect With Me
 
-- 🌐 **Portfolio** : https://rubina-porfolio-with-react.netlify.app/ 
-- 📫 **Email** : rubinaakter0108@gmail.com
-- 💼 **LinkedIn:** https://www.linkedin.com/in/rubina-akter-931796338/ 
-- 🐦 **Twitter:** https://x.com/rubinaakter4321 
+<div align="left">
+  <a href="https://rubina-porfolio-with-react.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=react&label=&color=61DAFB&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio link" />
+  </a>
+  <a href="mailto:rubinaakter0108@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/rubina-akter-931796338/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="https://x.com/rubinaakter4321" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
+  </a>
+</div>
 
 ---
 
@@ -64,4 +74,3 @@ _"Code is not just my profession; it's my art."_
 ---
 
 🎉 **Thank you for visiting my profile! Let's create something amazing together!**
-
