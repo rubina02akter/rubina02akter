@@ -1,9 +1,10 @@
-<div align="center">
-  <img height="150" src="https://i.ibb.co/KjCdjBjS/bg.png" class="w-full h-96" />
+<div style="width: 100%; height: 300px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
+  <img src="https://i.ibb.co/KjCdjBjS/bg.png" style="width: 100%; height: auto; object-fit: cover;" />
 </div>
 
 <h1 align="center">Hey There, I'm Rubina Akter 🌟</h1>
 <h2 align="center">Front-End Developer | Aspiring Full-Stack Enthusiast</h2>
+
 
 ---
 
