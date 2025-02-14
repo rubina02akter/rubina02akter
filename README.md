@@ -70,13 +70,6 @@ Hello! I'm a passionate **Front-End Developer** with a flair for creating beauti
 
 ---
 
-### 🔥 My Stats :
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=rubina02akter&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
-
-
 ### ⚡ Fun Facts
 
 - 💬 **Ask Me About:** Front-end development, React, and web design tips.  
