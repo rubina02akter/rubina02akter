@@ -73,7 +73,7 @@ Hello! I'm a passionate **Front-End Developer** with a flair for creating beauti
 ### ⚡ Fun Facts
 
 - 💬 **Ask Me About:** Front-end development, React, and web design tips.  
-- 🕊️ **Fun Fact:** I'm pursuing a B.S.S. Honours in Economics at Eden Mohila College under Dhaka University while mastering web development!  
+- 🕊️ **Fun Fact:** I'm pursuing a B.S.S. Honours in Economics at Eden Mohila College while mastering web development!  
 
 ---
 
