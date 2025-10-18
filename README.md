@@ -1,19 +1,19 @@
 <div style="width: 100%; height: 300px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
-  <img src="https://i.ibb.co/KjCdjBjS/bg.png" style="width: 100%; height: auto; object-fit: cover;" />
+  <img src="https://i.ibb.co.com/bRNvv298/Black-and-White-Simple-Front-End-Linked-In-Banner.png" style="width: 100%; height: auto; object-fit: cover;" />
 </div>
 
 <h1 align="center">Hey There, I'm Rubina Akter 🌟</h1>
-<h2 align="center">Front-End Developer | Aspiring Full-Stack Enthusiast</h2>
+<h2 align="center">Full-stack Developer </h2>
 
 
 ---
 
 ### 🚀 About Me
 
-Hello! I'm a passionate **Front-End Developer** with a flair for creating beautiful and user-friendly web experiences. With expertise in **React**, **Tailwind CSS**, and other modern web technologies, I bring designs to life with precision and creativity.  
+Hello! I'm a passionate **Full stack Developer** with a flair for creating beautiful and user-friendly web experiences. With expertise in **React Js**, **Next Js** **Tailwind CSS**, and other modern web technologies, I bring designs to life with precision and creativity.  
 
 - 📚 **Currently Learning:** React & Backend Data Management  
-- 🎯 **Goals:** To become a skilled **Full-Stack Developer** and build innovative web applications.  
+- 🎯 **Goals:** To become a skilled **Mern-Stack Developer** and build innovative web applications.  
 - 🎨 **Hobbies:** Art, coding, and exploring new creative challenges.  
 - 🌱 I thrive on continuous learning and exploring the limitless possibilities of web development.  
 
